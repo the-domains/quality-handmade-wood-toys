@@ -1,0 +1,28 @@
+name: Quality Handmade Wood Toys.
+favicon: null
+layout_spectrum: 0.17185501218773425
+typography_spectrum: 0.3054906341712922
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.10144299129024148
+  lightness: 0.7061555460095406
+  saturation: 0.4385243277065456
+  rhythmicContrast: 0.3155960813164711
+purpose: []

@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Quality Handmade Wood Toys.]]></title>
         <description><![CDATA[Quality Handmade Wood Toys.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quality-handmade-wood-toys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 01:36:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 03:22:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quality-handmade-wood-toys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a55572c-c8ea-4412-92cb-55eab5bedd31.png">]]></description>
+            <link>https://thegrid.ai/quality-handmade-wood-toys/886c46dc-0a1b-4ad5-b988-8e7af1644d05/index.html</link>
+            <guid isPermaLink="false">886c46dc-0a1b-4ad5-b988-8e7af1644d05</guid>
+            <pubDate>Thu, 07 Jan 2016 03:21:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebfbe797-ef76-49fa-8e45-7deaa9c35c64.jpg">]]></description>
-            <link>undefined76ad1ec6-30d6-48fe-8345-29a7de68570c/index.html</link>
+            <link>https://thegrid.ai/quality-handmade-wood-toys/76ad1ec6-30d6-48fe-8345-29a7de68570c/index.html</link>
             <guid isPermaLink="false">76ad1ec6-30d6-48fe-8345-29a7de68570c</guid>
             <pubDate>Thu, 07 Jan 2016 01:35:59 GMT</pubDate>
         </item>

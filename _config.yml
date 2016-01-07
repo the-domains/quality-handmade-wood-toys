@@ -23,6 +23,6 @@ color:
     - '#cebfa5'
   brandStrength: 1
   lightness: 0.4375
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
